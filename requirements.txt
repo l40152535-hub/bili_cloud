@@ -1,1 +1,4 @@
-
+fastapi
+uvicorn[standard]
+bilibili-api-python
+curl_cffi
